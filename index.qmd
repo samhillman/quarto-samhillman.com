@@ -1,11 +1,11 @@
 ---
-title: "quarto-samhillman.com"
+title: "Sam Hillman"
 ---
 
-This is a Quarto website.
+Hi - I'm Sam! I'm a PhD student in the Pedersen Group at Edinburgh University. I work on trying to understand how ecological factors affect the spread of infectious disease.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+I'm currently focused on how changes in resource distribution affects how animals interact, and how this changes their behaviour and disease transmission. I use a mixture of long-term field experiments, lab studies, biologging + social network analysis, and statistical and mathematical modelling.
 
-```{r}
-1 + 1
-```
+That may sound like a mouthful but I'm an ecologist at heart, passionate about all things natural. As well as ecology I'm interested in teaching and using statistical modelling in R as well as trying to work out how we can apply modern open-science practices to ecological research.
+
+Find out more about me and my work below or get in touch!

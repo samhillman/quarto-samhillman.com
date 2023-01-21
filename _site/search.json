@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "quarto-samhillman.com",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\nThis is a dummy blog posts\n\n\n\n\n\n\n\n\n\n\nThis is a test post. In this post, I try out different functionalities\n\n\n\n\n\n\nJun 1, 2022\n\n\n0 min\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Sam Hillman",
+    "section": "",
+    "text": "I’m currently focused on how changes in resource distribution affects how animals interact, and how this changes their behaviour and disease transmission. I use a mixture of long-term field experiments, lab studies, biologging + social network analysis, and statistical and mathematical modelling.\nThat may sound like a mouthful but I’m an ecologist at heart, passionate about all things natural. As well as ecology I’m interested in teaching and using statistical modelling in R as well as trying to work out how we can apply modern open-science practices to ecological research.\nFind out more about me and my work below or get in touch!"
+  },
+  {
+    "objectID": "archive.html",
+    "href": "archive.html",
+    "title": "Archive",
+    "section": "",
+    "text": "Jun 1, 2022\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/first_blog_post/firstblog.html",
+    "href": "posts/first_blog_post/firstblog.html",
+    "title": "This is a dummy blog posts",
+    "section": "",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam suscipit est nec dui eleifend, at dictum elit ullamcorper. Aliquam feugiat dictum bibendum."
+  }
+]

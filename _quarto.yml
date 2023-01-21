@@ -2,18 +2,27 @@ project:
   type: website
 
 website:
-  title: "quarto-samhillman.com"
+  title: "Sam Hillman"
+  site-url: https://www.samhillman.com
+  description: "Sam Hillman's personal webpage"
   navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+    right:
+      - text: About
+        href: about.qmd
+      - text: Blog
+        href: blog.qmd 
+      - icon: github
+        href: https://github.com/SamHillman
+      - icon: twitter
+        href: https://twitter.com/SamHillman
+      - text: "{{< ai google-scholar >}}"      
+        href: https://scholar.google.co.uk/citations?user=kKydRfAAAAAJ&hl=en
+   
 
 format:
   html:
-    theme: cosmo
-    css: styles.css
-    toc: true
+    theme: theme.scss
 
-editor: visual
+editor: 
+  mode: source
 

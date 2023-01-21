@@ -1,0 +1,14 @@
+[
+  {
+    "listing": "/blog.html",
+    "items": [
+      "/posts/first_blog_post/firstblog.html"
+    ]
+  },
+  {
+    "listing": "/archive.html",
+    "items": [
+      "/posts/first_blog_post/firstblog.html"
+    ]
+  }
+]

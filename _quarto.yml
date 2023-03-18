@@ -7,16 +7,18 @@ website:
   description: "Sam Hillman's personal webpage"
   navbar:
     right:
-      - text: About
-        href: about.qmd
+      - text: Contact
+        href: contact.qmd
       - text: Blog
         href: blog.qmd 
+      - text: CV
+        href: https://www.samhillmancv.com/
+      - icon: linkedin
+        href: https://www.linkedin.com/in/samghillman/
       - icon: github
         href: https://github.com/SamHillman
       - icon: twitter
         href: https://twitter.com/SamHillman
-      - text: "{{< ai google-scholar >}}"      
-        href: https://scholar.google.co.uk/citations?user=kKydRfAAAAAJ&hl=en
    
 
 format:

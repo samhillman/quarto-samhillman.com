@@ -1,11 +1,31 @@
 ---
 title: "Sam Hillman"
+image: static/samhillman.jpg
+about:
+    template: trestles
+    links:
+      - text: CV
+        href: https://www.samhillmancv.com/
+      - icon: linkedin
+        href: https://www.linkedin.com/in/samghillman/
+      - icon: github
+        href: https://github.com/SamHillman
+      - icon: twitter
+        href: https://twitter.com/SamHillman
+      - text: "{{< ai google-scholar >}}"      
+        href: https://scholar.google.co.uk/citations?user=kKydRfAAAAAJ&hl=en
+      - icon: orcid
+        text: ORCiD
+        href: https://orcid.org/my-orcid?orcid=0000-0003-0267-4837
+
 ---
 
-Hi - I'm Sam! I'm a PhD student in the Pedersen Group at Edinburgh University. I work on trying to understand how ecological factors affect the spread of infectious disease.
+Hi - I'm Sam! 
 
-I'm currently focused on how changes in resource distribution affects how animals interact, and how this changes their behaviour and disease transmission. I use a mixture of long-term field experiments, lab studies, biologging + social network analysis, and statistical and mathematical modelling.
+I'm a scientific researcher currently working as a data scientist consultant in the pharmaceutical industry. 
 
-That may sound like a mouthful but I'm an ecologist at heart, passionate about all things natural. As well as ecology I'm interested in teaching and using statistical modelling in R as well as trying to work out how we can apply modern open-science practices to ecological research.
+My background is in epidemiology, statistics, and complex data science. My PhD research is in wildlife epidemiology, working on how changing ecological factors affect the spread of infectious disease in the real world. 
 
-Find out more about me and my work below or get in touch!
+I previously worked as a post-doctoral data analyst in the Usher Institute, within the Edinburgh Medical School, working on the analysis of complex real world medical records and real world data looking at the effects of COVID-19 infection in Scotland.
+
+I have extensive experience working in data analysis, data science, and data management, and have previous experience working in clinical trials. Find out more about me and my work here or get in touch!

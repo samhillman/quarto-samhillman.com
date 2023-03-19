@@ -1,8 +1,12 @@
 ---
-title: "Sam Hillman"
+title: "Home"
 image: static/samhillman.jpg
+css: styles.css
+page-layout: full
 about:
     template: trestles
+    image-shape: round
+    image-width: 15em
     links:
       - text: CV
         href: https://www.samhillmancv.com/
@@ -22,10 +26,11 @@ about:
 
 Hi - I'm Sam! 
 
-I'm a scientific researcher currently working as a data scientist consultant in the pharmaceutical industry. 
+I'm a scientific researcher currently working as a data science consultant in the pharmaceutical industry. 
 
-My background is in epidemiology, statistics, and complex data science. My PhD research is in wildlife epidemiology, working on how changing ecological factors affect the spread of infectious disease in the real world. 
+My background is in epidemiology, statistics, and complex data science. My PhD research is in wildlife epidemiology, working on how changing ecological factors affect the spread of infectious disease in the real world. I previously worked as a post-doctoral data analyst in the Usher Institute, Edinburgh Medical School, working on complex real world medical records and real world data looking at the effects of COVID-19 infection in Scotland.
 
-I previously worked as a post-doctoral data analyst in the Usher Institute, within the Edinburgh Medical School, working on the analysis of complex real world medical records and real world data looking at the effects of COVID-19 infection in Scotland.
+I have extensive experience working in data analysis, data science, and data management, and have previous experience working in clinical trials. Find out more about me and my work or [get in touch](contact.qmd)!
 
-I have extensive experience working in data analysis, data science, and data management, and have previous experience working in clinical trials. Find out more about me and my work here or get in touch!
+
+ 

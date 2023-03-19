@@ -1,0 +1,30 @@
+/* Trestles Template Customization */
+.quarto-about-trestles {
+  display: flex !important;
+}
+
+.quarto-about-trestles .about-entity {
+  flex: 1 1 33.33% !important; /* This sets the image column width to 1/3 of the total width */
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  position: relative !important;
+  overflow: hidden !important;
+}
+
+.quarto-about-trestles .about-contents {
+  flex: 2 1 66.67% !important; /* This sets the text column width to 2/3 of the total width */
+  padding: 2rem !important;
+}
+
+/* Optional: Add the following to make it responsive */
+@media (max-width: 768px) {
+  .quarto-about-trestles {
+    flex-direction: column !important;
+  }
+
+  .quarto-about-trestles .about-entity,
+  .quarto-about-trestles .about-contents {
+    flex-basis: 100% !important;
+  }
+}

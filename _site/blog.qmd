@@ -1,12 +1,8 @@
 ---
-title: "Contact"
+title: "Blog"
 image: static/samhillman.jpg
-css: styles.css
-page-layout: full
 about:
     template: trestles
-    image-shape: round
-    image-width: 15em
     links:
       - text: CV
         href: https://www.samhillmancv.com/
@@ -21,16 +17,10 @@ about:
       - icon: orcid
         text: ORCiD
         href: https://orcid.org/my-orcid?orcid=0000-0003-0267-4837
-
-html: 
+format:
+  html: 
     email-obfuscation: "javascript"
+
 ---
 
-coming soon
-
-Feel free to drop me a message at any time - I'm always on the lookout for new opportunities!
-
-- Email me at [sghillman@gmail.com](mailto:sghillman@gmail.com).
-- Drop me a message on [LinkedIn](https://www.linkedin.com/in/samghillman/)
-- Follow me or DM me on [twitter](https://twitter.com/SamHillman)
-
+Coming soon

@@ -11,6 +11,20 @@
     "href": "index.html",
     "title": "Home",
     "section": "",
-    "text": "Hi - I’m Sam!\nI’m a scientific researcher currently working as a data science consultant in the pharmaceutical industry.\nMy background is in epidemiology, statistics, and complex data science. My PhD research is in wildlife epidemiology, working on how changing ecological factors affect the spread of infectious disease in the real world. I previously worked as a post-doctoral data analyst in the Usher Institute, Edinburgh Medical School, working on complex real world medical records and real world data looking at the effects of COVID-19 infection in Scotland.\nI have extensive experience working in data analysis, data science, and data management, and have previous experience working in clinical trials. Find out more about me and my work or get in touch!"
+    "text": "Hi - I’m Sam!\nI’m a scientific researcher currently working as a data science consultant in the pharmaceutical industry through Hillman Analytics.\nMy background is in epidemiology, statistics, and complex data science.\nI have extensive experience working in data analysis, data science, and data management, and have previous experience working in clinical trials. Find out more about me and my work or get in touch!"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Feel free to drop me a message at any time - I’m always on the lookout for new opportunities!\n\nEmail me at sghillman@gmail.com.\nDrop me a message on LinkedIn\nFollow me or DM me on twitter"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "[ under construction]"
   }
 ]

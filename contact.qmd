@@ -26,8 +26,6 @@ html:
     email-obfuscation: "javascript"
 ---
 
-coming soon
-
 Feel free to drop me a message at any time - I'm always on the lookout for new opportunities!
 
 - Email me at [sghillman@gmail.com](mailto:sghillman@gmail.com).

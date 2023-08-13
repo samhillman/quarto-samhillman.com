@@ -26,9 +26,9 @@ about:
 
 Hi - I'm Sam! 
 
-I'm a scientific researcher currently working as a data science consultant in the pharmaceutical industry. 
+I'm a scientific researcher currently working as a data science consultant in the pharmaceutical industry through [Hillman Analytics](https://www.hillmananalytics.com).
 
-My background is in epidemiology, statistics, and complex data science. My PhD research is in wildlife epidemiology, working on how changing ecological factors affect the spread of infectious disease in the real world. I previously worked as a post-doctoral data analyst in the Usher Institute, Edinburgh Medical School, working on complex real world medical records and real world data looking at the effects of COVID-19 infection in Scotland.
+My background is in epidemiology, statistics, and complex data science. 
 
 I have extensive experience working in data analysis, data science, and data management, and have previous experience working in clinical trials. Find out more about me and my work or [get in touch](contact.qmd)!
 

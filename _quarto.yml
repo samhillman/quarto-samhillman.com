@@ -7,11 +7,13 @@ website:
   description: "Sam Hillman's personal webpage"
   navbar:
     right:
-      - text: Contact
+      - text: Home
+        href: index.qmd
+      - text: About / Projects
+        href: about.qmd
+      - text: Contact Me
         href: contact.qmd
-      - text: Blog
-        href: blog.qmd 
-      - text: CV
+      - text: My CV
         href: https://www.samhillmancv.com/
       - icon: linkedin
         href: https://www.linkedin.com/in/samghillman/
